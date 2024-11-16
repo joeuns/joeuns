@@ -31,7 +31,7 @@
 <img
   src="https://render.gitanimals.org/farms/xoxun"
   width="400"
-  height="200"
+  height="150"
 />
 </a>
     </div>

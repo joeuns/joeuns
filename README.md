@@ -3,11 +3,12 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Joeun Kang </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 🇰🇷 in Seoul, Korea</li><li> 🏫 Konkuk Univ. CSE</li><li> 💠 Interested in Web Frontend </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 🇰🇷 in Seoul, Korea</li><li> 🏫 Konkuk Univ. CSE</li>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "center"> 
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
@@ -25,8 +26,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxun&layout=compact&bg_color=60,ffe5f0,a9b5da&title_color=7a6c75&text_color=7a6c75"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
         <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/xoxun"
